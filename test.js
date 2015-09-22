@@ -20,7 +20,7 @@ describe('User visits Hello World page', function() {
     });
 
     it('should see Hello World', function() {
-      browser.assert.text('h2', 'Hello World! mocho2');
+      browser.assert.text('h2', 'Hello World! paertrail');
     });
   });
 });
